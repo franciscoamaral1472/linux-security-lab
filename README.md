@@ -1,4 +1,11 @@
 # linux-security-lab
-Linux security scripts and experiments focused on system hardening and monitoring.
+Collection of Linux security scripts and experiments focused on system hardening and monitoring.
 
+Topics included:
+
+- user management
+- file permissions
+- open ports
+- log inspection
+- basic security checks
 
